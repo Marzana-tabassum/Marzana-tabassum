@@ -2,9 +2,7 @@
 <img src="https://raw.githubusercontent.com/Marzana-tabassum/Marzana-tabassum/main/banner.svg" width="900" alt="Marzana Tabassum Banner"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Marzana+👋;A+passionate+developer+from+Bangladesh+🇧🇩;Student+at+North+South+University+🎓;I+love+building+cool+things+💻;Always+learning%2C+always+growing+🌱"  />
-</div>
+
 
 ---
 
@@ -14,7 +12,7 @@
 - 💻 Passionate about **Android Development**
 - 🌱 Currently learning **Kotlin & AI**
 - 🇧🇩 Based in **Dhaka, Bangladesh**
-- ⚡ Fun fact: **I build keyboards in code!**
+- ⚡ Fun fact: **A cup of coffee and I cast spell in codes!**
 
 ---
 
