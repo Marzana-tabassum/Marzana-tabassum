@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/Marzana-tabassum/Marzana-tabassum/main/banner1.svg" width="900" alt="Marzana Tabassum Banner"/>
+<img src="https://raw.githubusercontent.com/Marzana-tabassum/Marzana-tabassum/main/banner(1).svg" width="900" alt="Marzana Tabassum Banner"/>
 </div>
 
 
